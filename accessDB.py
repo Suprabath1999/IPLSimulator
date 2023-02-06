@@ -1,3 +1,4 @@
+mancity vs man united
 import pymongo
 
 connection = pymongo.MongoClient('localhost', 27017)
